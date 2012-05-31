@@ -1,0 +1,4 @@
+repomagic
+=========
+
+A magical repo.
